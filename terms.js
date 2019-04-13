@@ -1,4 +1,4 @@
-[
+{[
   {
     text: 'pizza',
     total: 8
@@ -23,4 +23,4 @@
     text: 'Cama',
     total: 5
   }
-]
+]}
