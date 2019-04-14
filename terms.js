@@ -23,6 +23,22 @@
     {
       "text": "Cama",
       "total": 5
+    },
+    {
+      "text": "Pencil",
+      "total": 6
+    },
+    {
+      "text": "Thermo",
+      "total": 2
+    },
+    {
+      "text": "TV",
+      "total": 8
+    },
+    {
+      "text": "Phone",
+      "total": 4
     }
   ]
 }
